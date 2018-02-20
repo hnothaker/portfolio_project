@@ -1,26 +1,25 @@
 body {
-  background-color: #ccffcc;
-  color: #030303;
   margin: 0;
   padding: 0;
 }
 
 .header {
-  padding: 15px;
+  padding: 5px;
+  margin: 10px;
+  background-color: #F1FAEE;
 }
 
-ul {
+.nav ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 
-li {
+.nav li {
+    padding-right: 15px;
     display: inline
 }
 
 .content {
-  background-color: #030303;
+  background-color: #1D3557;
   color: #eeeeee;
   padding: 15px;
 }
@@ -28,3 +27,6 @@ li {
 p {
   margin: 0 15px;
 }
+
+/* possibly color scheme  coral-E63946 honeydew-F1FAEE
+queen blue-457B9D space cadet -1D3557 light blue- A8DADC */
